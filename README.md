@@ -23,13 +23,13 @@
     
 #自定义类型:
 	
- - User 	
- - Pet
- - Adopt
- - Mating
- - Brand
- - Post
- - Reply
- - Location
- - AppEvent
+ - <a href='user.md' target="_blank">User</a>
+ - <a href='Pet.md' target="_blank">Pet</a>
+ - <a href='Adopt.md' target="_blank">Adopt</a>
+ - <a href='Mating.md' target="_blank">Mating</a>
+ - <a href='Brand.md' target="_blank">Brand</a>
+ - <a href='Post.md' target="_blank">Post</a>
+ - <a href='Reply.md target="_blank"'>Reply</a>
+ - <a href='Location.md target="_blank"'>Location</a>
+ - <a href='AppEvent.md target="_blank"'>AppEvent</a>
 
