@@ -17,6 +17,8 @@
 
 *'avatar'* : \<String>,
 
+*'bg_img'* : \<String>,
+
 *'description'* : \<String>,
 
 ---
